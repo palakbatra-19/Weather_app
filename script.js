@@ -34,3 +34,4 @@ function getWeather() {
       resultDiv.innerHTML = `<p>Error: ${error.message}</p>`;
     });
 }
+
